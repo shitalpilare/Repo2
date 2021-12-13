@@ -1,0 +1,13 @@
+ Volume in drive C is Windows
+ Volume Serial Number is D27E-308E
+
+ Directory of C:\Users\Sarvesh\Desktop\NewProject
+
+13-Dec-21  03:01 PM    <DIR>          .
+13-Dec-21  03:01 PM    <DIR>          ..
+07-Dec-21  05:57 PM                37 index.html
+07-Dec-21  05:55 PM                 7 test1.txt
+07-Dec-21  05:02 PM               354 test1.txt.bak
+13-Dec-21  03:01 PM                 0 test2.txt
+               4 File(s)            398 bytes
+               2 Dir(s)  105,627,287,552 bytes free
